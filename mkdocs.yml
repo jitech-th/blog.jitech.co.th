@@ -1,0 +1,8 @@
+site_name: JiTech's Knowledge Base
+theme:
+    name: readthedocs
+plugins:
+    - search
+            # indexing: 'full'
+            # lang: en
+copyright: Copyright &copy; 2023 <a href="https://www.jitech.co.th">JiTech Company Limited</a>, Maintained by the <a href="/about/contributing/#maintenance-team">JiTech Service Team</a>.
