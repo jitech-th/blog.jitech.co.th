@@ -102,4 +102,4 @@ total 24
 -rw-r--r--. 1 user user 1074 Jul 13 17:44 server.csr
 -rw-------. 1 user user 1704 Jul 13 17:43 server.key
 ```
-Congratulations!:tada: You have successfully created self-signed certificates using OpenSSL. Now you can use these certificates for testing or development purposes.:exclamation:Remember that self-signed certificates are not trusted by default by most browsers and clients, so they are not suitable for some production use:exclamation:.
+Congratulations! You have successfully created self-signed certificates using OpenSSL. Now you can use these certificates for testing or development purposes. Remember that self-signed certificates are not trusted by default by most browsers and clients, so they are not suitable for some production use.
