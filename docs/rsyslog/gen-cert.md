@@ -7,7 +7,7 @@ To follow this guide to create self-signed, you need to have following prerequis
    
 2. **Basic Command Line Knowledge:** Due to the different version of software, familarity with the command line interface (CLI) is neccessary to excute OpenSSL commands, navigate the file system and debugging error.
    
-3. **Administrative Privileges:** Depending on your operating system, you may require admministrative to perform some operations, such as install OpenSSL or create files in specifics directories.
+3. **Administrative Privileges:** Due to the different versions of software, familiarity with the command line interface (CLI) is necessary to execute OpenSSL commands, navigate the file system, and debugging errors.
 
 ## How to generate certificate
 
